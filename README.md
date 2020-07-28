@@ -1,6 +1,6 @@
 # Calculadora Custo de Projeto
 
-Desafio realizado para seleção do Programaria (XP Invest - Back End).
+Desafio realizado para seleção do Programaria (XP Inc. - Back End).
 
 ## Objetivo
 
